@@ -8,9 +8,9 @@
 ### Sobre mim
 
 
-- Estudante do curso de Analise e Desenvolvimento de Sistemas - IFPB
+- Estudante do curso de Analise e Desenvolvimento de Sistemas - Unopar
    
    
    
 ### Áreas de interesse
--python,Back-end
+-python,Back-end, front-end
